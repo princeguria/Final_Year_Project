@@ -1,16 +1,6 @@
 
 731/5000
-µÚÒ»ÁĞÊÇ´«¸ĞÆ÷ADXL345ÔÚXÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
-µÚ¶şÁĞÊÇ´«¸ĞÆ÷ADXL345ÔÚYÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
-µÚÈıÁĞÊÇ´«¸ĞÆ÷ADXL345ÔÚZÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
 
-µÚ4ÁĞÊÇÓÉ´«¸ĞÆ÷ITG3200²âÁ¿µÄXÖáĞı×ªÊı¾İ¡£
-µÚ5ÁĞÊÇÓÉ´«¸ĞÆ÷ITG3200²âÁ¿µÄYÖáĞı×ªÊı¾İ¡£
-µÚÁùÁĞÊÇÓÉ´«¸ĞÆ÷ITG3200²âÁ¿µÄZÖáĞı×ªÊı¾İ¡£
-
-µÚÆßÁĞÊÇ´«¸ĞÆ÷MMA8451QÔÚXÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
-µÚ°ËÁĞÊÇ´«¸ĞÆ÷MMA8451QÔÚYÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
-µÚ9ÁĞÊÇ´«¸ĞÆ÷MMA8451QÔÚZÖáÉÏ²âµÃµÄ¼ÓËÙ¶ÈÊı¾İ¡£
 
 1st column is the acceleration data in the X axis measured by the sensor ADXL345.
 2nd column is the acceleration data in the Y axis measured by the sensor ADXL345.
@@ -28,7 +18,7 @@
 ---- SisFall: A Fall and Movement Dataset ----
 
 Created by:
-A. Sucerquia, J.D. López, J.F. Vargas-Bonilla
+A. Sucerquia, J.D. Lé«‰ez, J.F. Vargas-Bonilla
 SISTEMIC, Faculty of Engineering, Universidad de Antiquia UDEA
 josedavid@udea.edu.co
 
@@ -61,7 +51,7 @@ Activities of Daily Living (ADL):
 | D11  | Sitting a moment, trying to get up, and collapse into a chair                            | 5      | 12s      |
 | D12  | Sitting a moment, lying slowly, wait a moment, and sit again                             | 5      | 12s      |
 | D13  | Sitting a moment, lying quickly, wait a moment, and sit again                            | 5      | 12s      |
-| D14  | Being on one’s back change to lateral position, wait a moment, and change to one’s back  | 5      | 12s      |
+| D14  | Being on oneæŠ¯ back change to lateral position, wait a moment, and change to oneæŠ¯ back  | 5      | 12s      |
 | D15  | Standing, slowly bending at knees, and getting up                                        | 5      | 12s      |
 | D16  | Standing, slowly bending without bending knees, and getting up                           | 5      | 12s      |
 | D17  | Standing, get into a car, remain seated and get out of the car                           | 5      | 25s      |
